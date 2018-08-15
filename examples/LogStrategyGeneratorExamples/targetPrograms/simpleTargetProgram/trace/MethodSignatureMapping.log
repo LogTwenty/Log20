@@ -1,0 +1,4 @@
+MethodSignatureHashList[1]:<SimpleExample1: void main(java.lang.String[])>
+MethodSignatureHashList[0]:<SimpleExample1: void <init>()>
+MethodSignatureHashList[2]:<SimpleExample1: void methodToInstrument()>
+3

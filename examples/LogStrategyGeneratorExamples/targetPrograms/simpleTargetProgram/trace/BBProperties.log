@@ -1,0 +1,9 @@
+methodSig	bbId	numTrace	numDebug	numInfo	numWarn	numError	numFatal	beginLineNo	endLineNo	predIds	succIds
+<SimpleExample1: void <init>()>	0	0	0	0	0	0	0	-1	10		
+<SimpleExample1: void main(java.lang.String[])>	0	0	0	0	0	0	0	-1	24		
+<SimpleExample1: void main(java.lang.String[])>	1	0	0	0	0	0	0	25	23		
+<SimpleExample1: void main(java.lang.String[])>	2	0	0	0	0	0	0	25	25	0,1,	0,1,
+<SimpleExample1: void methodToInstrument()>	0	0	0	0	0	0	0	29	29		
+<SimpleExample1: void methodToInstrument()>	1	0	0	0	0	0	0	29	29	0,2,	0,2,
+<SimpleExample1: void methodToInstrument()>	2	0	0	0	0	0	0	30	29	1,	1,
+<SimpleExample1: void methodToInstrument()>	3	0	0	0	0	0	0	33	33	1,	1,

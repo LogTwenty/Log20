@@ -1,0 +1,6 @@
+/homes/rodri228/sw/hadoop/hadoop-2.6.0/share/hadoop/hdfs/hadoop-hdfs-nfs-2.6.0.jar
+/homes/rodri228/sw/hadoop/hadoop-2.6.0/share/hadoop/hdfs/hadoop-hdfs-2.6.0.jar
+/homes/rodri228/sw/hadoop/hadoop-2.6.0/share/hadoop/common/lib/hadoop-annotations-2.6.0.jar
+/homes/rodri228/sw/hadoop/hadoop-2.6.0/share/hadoop/common/lib/hadoop-auth-2.6.0.jar
+/homes/rodri228/sw/hadoop/hadoop-2.6.0/share/hadoop/common/hadoop-nfs-2.6.0.jar
+/homes/rodri228/sw/hadoop/hadoop-2.6.0/share/hadoop/common/hadoop-common-2.6.0.jar
